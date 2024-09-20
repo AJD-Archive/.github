@@ -65,10 +65,10 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/sinamong0620">@sinamong0620</a></td>
     <td align="center"><a href="https://github.com/MyungJiwoo">@MyungJiwoo</a></td>
-    <td align="center"><a href="https://github.com/Zvckaya">@Zvackaya</a></td>
     <td align="center"><a href="https://github.com/dongkyun0713">@dongkyun0713</a></td>
-    <td align="center"><a href="https://github.com/giwoong01">giwoong01</a></td>
+    <td align="center"><a href="https://github.com/giwoong01">@giwoong01</a></td>
     <td align="center"><a href="https://github.com/inhooo00">@inhooo00</a></td>
   </tr>
 </tbody>
