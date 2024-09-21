@@ -15,7 +15,7 @@
 ### 인프라
 
 ## CI/CD
-
+![끄적 파이프라인](https://github.com/user-attachments/assets/1588b93c-7f24-4dfd-9449-6f58edeb6a84)
 
 ## ERD
 
