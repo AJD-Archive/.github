@@ -10,6 +10,18 @@
 
 
 ### 백엔드
+## 💡 Tech Stack
+| Frontend | Backend | Deployment | Other |
+|:---:|:---:|:---:|:----:|
+| - | <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Mockito-59666C?style=flat-square&logo=mockito&logoColor=white"/></a><br><img src="https://img.shields.io/badge/QueryDSL-0082C9?style=flat-square&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>| <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"><a/><br/><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"><a/><br/><img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"><a/><br/><img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"><a/><br/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"><a/> | <img src="https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white"/></a><br/><img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a><br/><img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a> |
+
+
+```
+Backend: Spring Boot, Spring Data JPA, QueryDSL, JUnit5, Mockito
+Deployment: AWS EC2, Docker, Nginx, Amazon RDS, AWS S3
+CI/CD: Github Actions, DockerHub
+API Document: Spring REST Docs
+```
 
 
 ### 인프라
