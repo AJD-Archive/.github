@@ -1,37 +1,28 @@
+## 🔔 소개
+
+끄적끄적은 일정을 시작 전, 진행 중, 완료의 3가지 상태로 관리할 수 있는 일정 관리 플랫폼입니다. 개인 일정뿐만 아니라 팀 일정을 효과적으로 관리할 수 있으며, 다른 사람들이 여는 챌린지에 참여하여 협업과 동기부여를 지원합니다. 사용자는 드래그 앤 드롭으로 일정을 편하게 관리할 수 있습니다.
+
 <div align="center">
 
-## [끄적끄적 하러 가기](https://kkeujeok-kkeujeok.vercel.app/login)
+## [➡️ 끄적끄적 하러 가기](https://kkeujeok-kkeujeok.vercel.app/login)
 
 </div>
 
-## 기술 스택
+## 🛠 기술 스택
 
 ### 프론트 엔드
-
+![Group 484](https://github.com/user-attachments/assets/703dacf8-bc0f-4bad-8e1b-195f10ac2c0d)
 
 ### 백엔드
-## 💡 Tech Stack
-| Frontend | Backend | Deployment | Other |
-|:---:|:---:|:---:|:----:|
-| - | <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Mockito-59666C?style=flat-square&logo=mockito&logoColor=white"/></a><br><img src="https://img.shields.io/badge/QueryDSL-0082C9?style=flat-square&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>| <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"><a/><br/><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"><a/><br/><img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"><a/><br/><img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"><a/><br/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"><a/> | <img src="https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white"/></a><br/><img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a><br/><img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a> |
+![Group 483](https://github.com/user-attachments/assets/07ffd45e-59f6-458e-8c25-98b97b7e9eea)
 
 
-```
-Backend: Spring Boot, Spring Data JPA, QueryDSL, JUnit5, Mockito
-Deployment: AWS EC2, Docker, Nginx, Amazon RDS, AWS S3
-CI/CD: Github Actions, DockerHub
-API Document: Spring REST Docs
-```
-
-
-### 인프라
-
-## CI/CD
+## 🔁 CI/CD
 ![끄적 파이프라인](https://github.com/user-attachments/assets/1588b93c-7f24-4dfd-9449-6f58edeb6a84)
 
 ## ERD
 
-## 멤버
+## 👏 멤버
 
 <table>
 <thead>
