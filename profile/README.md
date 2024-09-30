@@ -18,7 +18,7 @@
 
 
 ## 🔁 CI/CD
-![끄적 파이프라인](https://github.com/user-attachments/assets/1588b93c-7f24-4dfd-9449-6f58edeb6a84)
+![끄적끄적 파이프라인](https://github.com/user-attachments/assets/460c0b23-81f2-4c1c-9b27-2649f800ef5e)
 
 ## 👏 멤버
 
